@@ -1,0 +1,22 @@
+table {
+    border:1px solid black;
+    background-color:azure;
+    
+}
+.firstrow {
+    border: 1px solid black;
+    background-color: black; color: white;
+}
+th {
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+    
+}
+.timerow {
+    color:darkblue;
+}
+video{
+    width: 500px;
+}
